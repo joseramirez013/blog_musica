@@ -4,20 +4,14 @@ header{
 
 .logo-img{
   width: 100px;
-  margin-top: 10px;
-}
-
-.jumbotron-text{
-  font-size: 16px;
-  margin-top: 10px;
-  color: #FFFFFF;
-}
-
-.redes-sociales{
   margin-top: 20px;
 }
 
+.redes-sociales{
+  margin-bottom: 10px;
+}
+
 .img-social{
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
 }
