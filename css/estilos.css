@@ -1,5 +1,5 @@
 header{
-  background-color: cyan;
+  background-color: gray;
 }
 
 .logo-img{
@@ -14,4 +14,14 @@ header{
 .img-social{
   width: 30px;
   height: 30px;
+}
+.images-contenido{
+  height: 250px;
+  margin-top: 5px;
+}
+
+.contenedor-principal{
+  min-height: 200px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
