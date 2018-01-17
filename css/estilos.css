@@ -26,3 +26,17 @@ header{
   padding-right: 10px;
   padding-top: 10px;
 }
+
+.inner-addon{
+  position: relative;
+}
+
+.inner-addon .glyphicon{
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+.left-addon input{
+  padding-left: 30px;
+}
