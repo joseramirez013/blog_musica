@@ -40,3 +40,10 @@ header{
 .left-addon input{
   padding-left: 30px;
 }
+
+.options{
+  min-height: 580px;
+  margin-top: 0px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
