@@ -49,8 +49,25 @@ header{
 }
 
 @media (max-width: 770px){
+  .logo-img {
+    width: 45px;
+  }
+
+  .img-social{
+    width: 20px;
+    height: 20px;
+  }
+
   .busqueda{
     display: none;
+  }
+
+  h1{
+    font-size: 14px;
+  }
+
+  p{
+    font-size: 10px;
   }
 
 }
