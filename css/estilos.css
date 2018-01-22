@@ -47,3 +47,10 @@ header{
   padding-left: 10px;
   padding-top: 10px;
 }
+
+@media (max-width: 770px){
+  .busqueda{
+    display: none;
+  }
+
+}
